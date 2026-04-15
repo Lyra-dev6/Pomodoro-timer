@@ -28,7 +28,7 @@ This project is my first beginner-friendly web application that allows users to 
 -Add streaks or progress bar
 
 # Status
-Completed
+Completed- on Wednesday APRIL 15 2026
 
 # Author
 Ayesha Mgaram
